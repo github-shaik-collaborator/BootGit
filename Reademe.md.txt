@@ -1,1 +1,3 @@
 Added from devBranch
+
+EDITING FROM WEBSITE NOT FROM TERMINAL
